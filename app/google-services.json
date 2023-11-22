@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368057311741",
+    "project_id": "temperatura-4e5a7",
+    "storage_bucket": "temperatura-4e5a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368057311741:android:ea055847aae8f3a5773994",
+        "android_client_info": {
+          "package_name": "com.example.thfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAW92mYBkVPKCQLp2K9oAVezZJbvBVzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
